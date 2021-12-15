@@ -2,6 +2,7 @@
 
 A Database Management System for Museum for Easier maintenance.
 The Project is built using C#(Visual Studio) for Frontend and MySql for Backend.
+</br>
 ER Diagram
 ![ER Diagram](https://user-images.githubusercontent.com/58554461/146213399-464f571c-2c50-471c-b255-141c096e4920.png)
 Schema Diagram
