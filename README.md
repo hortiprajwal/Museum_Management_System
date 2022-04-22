@@ -63,9 +63,17 @@ The Project is built using C#(Visual Studio) for Frontend and MySql for Backend.
   </tr>
   
 </table>
-
 </br>
+
+<table style="border:1px solid;">
+  <tr >
+   
+  </tr>
+  
+</table>
+
 ER Diagram
 ![ER Diagram](https://user-images.githubusercontent.com/58554461/146213399-464f571c-2c50-471c-b255-141c096e4920.png)
+<br>
 Schema Diagram
 ![Schema Diagram](https://user-images.githubusercontent.com/58554461/146213405-5ed7a7d0-92d3-4fa0-9804-a243ff40a02d.png)
